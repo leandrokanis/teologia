@@ -1,0 +1,15 @@
+{
+  "name": "christian-system",
+  "version": "0.0.1",
+  "description": "Curso de Teologia",
+  "main": "index.js",
+  "author": "Leandro Alves",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  }
+}
