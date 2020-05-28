@@ -1,25 +1,12 @@
-# node modules
+pids
+logs
 node_modules
-
-# MacOS desktop services store
+npm-debug.log
+coverage/
+run
+dist
 .DS_Store
-
-# Log files
-*.log
-
-# Meta files
-TODOs.md
-
-# Editors
-.vscode
-.idea
-
-# VuePress temp directory
-.temp
-
-# Docs dist directory
-.vuepress/dist/
-
-# Typescript build dist
-packages/@vuepress/shared-utils/lib/
-packages/@vuepress/shared-utils/types/
+.nyc_output
+.basement
+config.local.js
+basement_dist
