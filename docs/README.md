@@ -1,1 +1,1 @@
-# Teologia
+# GO - Projeto de vida

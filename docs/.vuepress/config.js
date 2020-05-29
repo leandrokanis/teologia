@@ -1,4 +1,6 @@
-const { description, name } = require('../../package')
+const { description } = require('../../package')
+const getConfig = require("vuepress-bar");
+const __dirName = 'docs'
 
 module.exports = {
     /**
@@ -27,13 +29,12 @@ module.exports = {
      * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
      */
     themeConfig: {
-        repo: '',
-        editLinks: false,
-        docsDir: '',
-        editLinkText: '',
-        lastUpdated: false,
-        nav: [],
-        sidebar: 'auto'
+        nav: [
+            { text: 'Guide', link: '/nav.01.guide/' },
+            { text: 'Api', link: '/nav.02.api/' }
+        ],
+
+        ...getConfig(`${__dirName}`)
     },
 
     /**
