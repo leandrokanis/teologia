@@ -1,1 +1,1 @@
-# GO - Projeto de vida
+# DOCS
