@@ -26,23 +26,3 @@ CULLMANN, Oscar; WEBER, Bertoldo. **A formação do Novo Testamento.** 8. ed. S�
 FARIA, Jacir de Freitas; AUTH, Romi; SILVA, Airton José da; KONINGS, Johan; VITÓRIO, Jaldemir. **História de Israel e as pesquisas mais recentes**. Petrópolis: Vozes, 2003.
 
 GUNNEWEG, Antonius H. J.; FUCHS, Werner. **Teologia bíblica do antigo testamento**: uma história  da religião de Israel na perspectiva bíblicoteológica. São Paulo: Teológica, 2005.
-
-## Unidade 1 - A BÍBLIA: CÂNON E MENSAGEM
-
-### Objetivos de Aprendizagem
-
-- Descrever os dois Testamentos que compõem a Bíblia Cristã e sua importância para a Teologia.
-- Descrever as três seções do Cânon da Bíblia Hebraica e sua importância para a Teologia.
-- Alistar os principais elementos do processo de textualização dos livros do Antigo Testamento.
-- Alistar os principais elementos do processo de textualização dos livros do Novo Testamento.
-- Elaborar uma visão geral da Teologia Bíblica em ordem histórica.
-
-### O Cânon da Bíblia Cristã
-
-### O Cânon da Bíblia Hebraica
-
-### A Textualização do Antigo Testamento
-
-### A Textualização do Novo Testamento
-
-### Uma Visão Geral da História e Teologia Bíblic
