@@ -1,6 +1,4 @@
-# Teologia Bíblica
-
-### Ementa
+# Ementa
 
 Fundamentos teóricos da Teologia Prática. Conceito, sujeito e método. Fundamentos bíblicos e teológicos da liderança cristã. Análise crítica da realidade pastoral contemporânea e dos principais conceitos teológicos do ministério pastoral. Elaboração, em perspectiva teológica, de uma pastoral relevante e contextual. 
 
